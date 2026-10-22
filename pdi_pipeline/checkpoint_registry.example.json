@@ -1,0 +1,10 @@
+{
+  "checkpoints": [
+    {
+      "name": "BE-Net validation-selected best (example)",
+      "path": "../pdi_runs/full/best_model.pt",
+      "architecture": {"name": "BENet", "in_ch": 158, "out_ch": 3},
+      "class_mapping": [103, 104, 105]
+    }
+  ]
+}

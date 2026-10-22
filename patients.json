@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "patients": [
+    {
+      "id": "Patient_47",
+      "cube": "D:\\PDI\\data\\Patient_47\\cube.dat",
+      "header": "D:\\PDI\\data\\Patient_47\\cube.hdr",
+      "gt": "D:\\PDI\\data\\Patient_47\\Patient_47_GT.mat",
+      "gt_key": "annotation_map",
+      "rgb": "D:\\PDI\\data\\Patient_47\\Patient_47_RGB.png",
+      "gt_png": "D:\\PDI\\data\\Patient_47\\Patient_47_GT.png",
+      "diagnostic": "D:\\PDI\\data\\Patient_47\\Patient_47_Diagnostic.txt"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "dataset_root": "D:/Code/pdi_data",
+  "output": "pdi_runs/full",
+  "bands": 158,
+  "preprocessing": "raw_ENVI_values_no_spectral_reordering",
+  "seed": 2026,
+  "epochs": 100,
+  "learning_rate": 0.0001,
+  "batch_size": 2,
+  "patch_size": 64,
+  "mixed_precision": true,
+  "checkpoint_interval": 5,
+  "scheduler_step": 30
+}

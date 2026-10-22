@@ -1,0 +1,3 @@
+﻿{
+  "python.defaultInterpreterPath": "${workspaceFolder}/be_net_env/Scripts/python.exe"
+}

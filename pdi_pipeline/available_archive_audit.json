@@ -1,0 +1,1794 @@
+{
+  "count": 77,
+  "patients": [
+    {
+      "id": "Patient_1",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 422488,
+        "100": 142798,
+        "101": 68998,
+        "102": 5885,
+        "200": 1432
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_10",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 335588,
+        "100": 220623,
+        "101": 67163,
+        "102": 18227
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_11",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 223581,
+        "100": 374751,
+        "101": 28448,
+        "102": 12117,
+        "200": 2704
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_12",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 393211,
+        "100": 228445,
+        "101": 11513,
+        "102": 4472,
+        "202": 3960
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_13",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 639195,
+        "300": 2406
+      },
+      "unexpected_labels": [
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_14",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 284033,
+        "100": 301392,
+        "101": 52531,
+        "102": 2436,
+        "200": 1209
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_15",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 432035,
+        "103": 205242,
+        "104": 13,
+        "105": 4311
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_16",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 237036,
+        "100": 384736,
+        "101": 17518,
+        "102": 2311
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_17",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 466534,
+        "100": 106067,
+        "101": 60577,
+        "102": 6103,
+        "202": 2320
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_18",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 457910,
+        "103": 127980,
+        "104": 54021,
+        "105": 1690
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_19",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 428995,
+        "100": 192533,
+        "101": 15813,
+        "102": 1853,
+        "202": 2407
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_2",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 457662,
+        "100": 172488,
+        "101": 7593,
+        "102": 3079,
+        "201": 779
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_20",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 439288,
+        "103": 199305,
+        "104": 2058,
+        "105": 950
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_21",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 422903,
+        "103": 209319,
+        "104": 3999,
+        "105": 5380
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_22",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 408692,
+        "100": 163989,
+        "101": 61649,
+        "102": 5482,
+        "202": 1789
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_23",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 402994,
+        "100": 128161,
+        "101": 103932,
+        "102": 6514
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_24",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 323126,
+        "103": 292687,
+        "104": 9100,
+        "105": 16688
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_25",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 439935,
+        "100": 179154,
+        "101": 19716,
+        "102": 974,
+        "201": 1822
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_26",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 409369,
+        "100": 219665,
+        "101": 7227,
+        "102": 3510,
+        "200": 1830
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_27",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 251459,
+        "100": 369040,
+        "101": 15726,
+        "102": 5376
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_28",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 512085,
+        "100": 115995,
+        "101": 9429,
+        "102": 4092
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_29",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 434279,
+        "100": 178678,
+        "101": 26687,
+        "102": 1957
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_3",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 409051,
+        "100": 195262,
+        "101": 30837,
+        "102": 4780,
+        "200": 1671
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_30",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 282815,
+        "100": 336041,
+        "101": 20832,
+        "102": 1913
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_31",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 459811,
+        "103": 167090,
+        "104": 10857,
+        "105": 3843
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_32",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 361952,
+        "100": 261268,
+        "101": 9273,
+        "102": 6505,
+        "200": 2603
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_33",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 632364,
+        "300": 9237
+      },
+      "unexpected_labels": [
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_34",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 409374,
+        "103": 225527,
+        "104": 1927,
+        "105": 4773
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_35",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 437053,
+        "103": 196932,
+        "104": 3392,
+        "105": 4224
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_36",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 315453,
+        "100": 291552,
+        "101": 23153,
+        "102": 9054,
+        "200": 2389
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_37",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 457483,
+        "100": 172370,
+        "101": 8779,
+        "102": 2969
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_38",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 485747,
+        "100": 134271,
+        "101": 16998,
+        "102": 2352,
+        "202": 2233
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_39",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 475244,
+        "100": 159677,
+        "101": 992,
+        "102": 5688
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_4",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 210154,
+        "100": 405637,
+        "101": 17793,
+        "102": 6091,
+        "201": 1926
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_40",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 170765,
+        "100": 446944,
+        "101": 10655,
+        "102": 13237
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_41",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 448757,
+        "100": 185501,
+        "101": 4634,
+        "102": 1139,
+        "202": 1570
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_42",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 461782,
+        "100": 153119,
+        "101": 21769,
+        "102": 398,
+        "202": 4533
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_43",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 404553,
+        "100": 227750,
+        "101": 3842,
+        "102": 1664,
+        "200": 3792
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_44",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 528626,
+        "103": 106521,
+        "104": 3323,
+        "105": 3131
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_45",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 405604,
+        "100": 210678,
+        "101": 24082,
+        "102": 1237
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_46",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 463648,
+        "100": 158043,
+        "101": 16235,
+        "102": 1954,
+        "202": 1721
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_47",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 265599,
+        "103": 353739,
+        "104": 12712,
+        "105": 9551
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_48",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 334498,
+        "103": 235610,
+        "104": 63344,
+        "105": 8149
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_49",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 436357,
+        "103": 195761,
+        "104": 6095,
+        "105": 3388
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_5",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 431262,
+        "100": 197917,
+        "101": 9437,
+        "102": 1816,
+        "201": 1169
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_50",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 515835,
+        "100": 119064,
+        "101": 2224,
+        "102": 3026,
+        "200": 1452
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        200
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_51",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 350561,
+        "103": 260132,
+        "104": 23269,
+        "105": 7639
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_52",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 375768,
+        "103": 263273,
+        "104": 1011,
+        "105": 1549
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_53",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 444241,
+        "100": 114990,
+        "101": 79743,
+        "102": 2627
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_54",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 632799,
+        "300": 8802
+      },
+      "unexpected_labels": [
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_55",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 380474,
+        "103": 245318,
+        "104": 7459,
+        "105": 8350
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_56",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 429353,
+        "100": 177383,
+        "101": 30171,
+        "102": 3674,
+        "201": 1020
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_57",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 411223,
+        "103": 222986,
+        "104": 3438,
+        "105": 3954
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_58",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 414520,
+        "100": 217476,
+        "101": 7106,
+        "102": 1129,
+        "202": 1370
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_59",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 462321,
+        "100": 166723,
+        "101": 9185,
+        "102": 3372
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_6",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 481494,
+        "103": 153289,
+        "104": 498,
+        "105": 6320
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_60",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 639748,
+        "300": 1853
+      },
+      "unexpected_labels": [
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_61",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 432804,
+        "100": 202243,
+        "101": 344,
+        "102": 6210
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_62",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 488490,
+        "100": 129043,
+        "101": 24045,
+        "102": 23
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_63",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 439360,
+        "103": 164170,
+        "104": 32148,
+        "105": 5923
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_64",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 575870,
+        "100": 14915,
+        "101": 44844,
+        "202": 5972
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_65",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 593306,
+        "100": 36718,
+        "101": 7503,
+        "201": 4074
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        201
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_66",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 606956,
+        "100": 27518,
+        "202": 7127
+      },
+      "unexpected_labels": [
+        100,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_67",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 587528,
+        "100": 25599,
+        "202": 28474
+      },
+      "unexpected_labels": [
+        100,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_68",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 618675,
+        "100": 17223,
+        "202": 5703
+      },
+      "unexpected_labels": [
+        100,
+        202
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_69",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 534368,
+        "103": 78839,
+        "104": 28394
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_7",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 434596,
+        "100": 197211,
+        "101": 587,
+        "102": 9207
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_70",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 610470,
+        "103": 20554,
+        "104": 10577
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_71",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 561675,
+        "103": 79926
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_72",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 564415,
+        "103": 52360,
+        "104": 24826
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_73",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 576157,
+        "103": 50204,
+        "104": 15240
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_74",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 550641,
+        "103": 90960
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_75",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 547563,
+        "103": 94038
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_76",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 616314,
+        "300": 25287
+      },
+      "unexpected_labels": [
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_77",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 583156,
+        "100": 18161,
+        "300": 40284
+      },
+      "unexpected_labels": [
+        100,
+        300
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_8",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 440679,
+        "100": 192411,
+        "101": 3458,
+        "102": 5053
+      },
+      "unexpected_labels": [
+        100,
+        101,
+        102
+      ],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    },
+    {
+      "id": "Patient_9",
+      "shape": [
+        158,
+        801,
+        801
+      ],
+      "labels": {
+        "0": 386180,
+        "103": 201376,
+        "104": 50613,
+        "105": 3432
+      },
+      "unexpected_labels": [],
+      "alignment": "Shape only; visual spatial review required",
+      "cube_values_scanned": false
+    }
+  ],
+  "errors": [],
+  "missing_expected_ids": [],
+  "unexpected_labels_by_patient": {
+    "Patient_1": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_10": [
+      100,
+      101,
+      102
+    ],
+    "Patient_11": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_12": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_13": [
+      300
+    ],
+    "Patient_14": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_16": [
+      100,
+      101,
+      102
+    ],
+    "Patient_17": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_19": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_2": [
+      100,
+      101,
+      102,
+      201
+    ],
+    "Patient_22": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_23": [
+      100,
+      101,
+      102
+    ],
+    "Patient_25": [
+      100,
+      101,
+      102,
+      201
+    ],
+    "Patient_26": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_27": [
+      100,
+      101,
+      102
+    ],
+    "Patient_28": [
+      100,
+      101,
+      102
+    ],
+    "Patient_29": [
+      100,
+      101,
+      102
+    ],
+    "Patient_3": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_30": [
+      100,
+      101,
+      102
+    ],
+    "Patient_32": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_33": [
+      300
+    ],
+    "Patient_36": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_37": [
+      100,
+      101,
+      102
+    ],
+    "Patient_38": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_39": [
+      100,
+      101,
+      102
+    ],
+    "Patient_4": [
+      100,
+      101,
+      102,
+      201
+    ],
+    "Patient_40": [
+      100,
+      101,
+      102
+    ],
+    "Patient_41": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_42": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_43": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_45": [
+      100,
+      101,
+      102
+    ],
+    "Patient_46": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_5": [
+      100,
+      101,
+      102,
+      201
+    ],
+    "Patient_50": [
+      100,
+      101,
+      102,
+      200
+    ],
+    "Patient_53": [
+      100,
+      101,
+      102
+    ],
+    "Patient_54": [
+      300
+    ],
+    "Patient_56": [
+      100,
+      101,
+      102,
+      201
+    ],
+    "Patient_58": [
+      100,
+      101,
+      102,
+      202
+    ],
+    "Patient_59": [
+      100,
+      101,
+      102
+    ],
+    "Patient_60": [
+      300
+    ],
+    "Patient_61": [
+      100,
+      101,
+      102
+    ],
+    "Patient_62": [
+      100,
+      101,
+      102
+    ],
+    "Patient_64": [
+      100,
+      101,
+      202
+    ],
+    "Patient_65": [
+      100,
+      101,
+      201
+    ],
+    "Patient_66": [
+      100,
+      202
+    ],
+    "Patient_67": [
+      100,
+      202
+    ],
+    "Patient_68": [
+      100,
+      202
+    ],
+    "Patient_7": [
+      100,
+      101,
+      102
+    ],
+    "Patient_76": [
+      300
+    ],
+    "Patient_77": [
+      100,
+      300
+    ],
+    "Patient_8": [
+      100,
+      101,
+      102
+    ]
+  }
+}
